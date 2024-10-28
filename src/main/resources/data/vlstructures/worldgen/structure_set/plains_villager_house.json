@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "vlstructures:plains_villager_house",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 229121216,
+    "spacing": 19,
+    "separation": 7,
+    "type": "minecraft:random_spread"
+  }
+}
