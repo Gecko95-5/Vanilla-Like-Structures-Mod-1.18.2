@@ -5,25 +5,7 @@
     {
       "weight": 1,
       "element": {
-        "location": "vlstructures:villager_houses/plains/plains_villager_house_1",
-        "processors": "minecraft:empty",
-        "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-    {
-      "weight": 1,
-      "element": {
-        "location": "vlstructures:villager_houses/plains/plains_villager_house_2",
-        "processors": "minecraft:empty",
-        "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-    {
-      "weight": 1,
-      "element": {
-        "location": "vlstructures:villager_houses/plains/plains_villager_house_3",
+        "location": "vlstructures:villager_houses/plains/plains_villager",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
