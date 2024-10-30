@@ -3,6 +3,14 @@
     {
       "structure": "vlstructures:plains_villager_house",
       "weight": 1
+    },
+    {
+      "structure": "vlstructures:plains_nitwit_house",
+      "weight": 1
+    },
+    {
+      "structure": "vlstructures:desert_villager_house",
+      "weight": 1
     }
   ],
   "placement": {

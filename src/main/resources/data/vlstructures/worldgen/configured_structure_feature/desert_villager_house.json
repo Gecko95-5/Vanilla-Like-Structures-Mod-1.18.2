@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:village",
+  "config": {
+    "start_pool": "vlstructures:desert_villager_house/start_pool",
+    "size": 2
+  },
+  "biomes": "#vlstructures:has_structure/desert_villager_houses",
+  "adapt_noise": true,
+  "spawn_overrides": {}
+}

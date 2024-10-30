@@ -1,11 +1,11 @@
 {
-  "name": "vlstructures:plains_villager_house/sheep",
+  "name": "vlstructures:plains_villager_house/start_pool",
   "fallback": "minecraft:empty",
   "elements": [
     {
       "weight": 1,
       "element": {
-        "location": "vlstructures:villager_houses/shepherd_sheep",
+        "location": "vlstructures:villager_houses/desert/desert_villager",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"

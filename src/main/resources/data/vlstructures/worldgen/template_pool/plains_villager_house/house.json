@@ -3,7 +3,7 @@
   "fallback": "minecraft:empty",
   "elements": [
     {
-      "weight": 1,
+      "weight": 20,
       "element": {
         "location": "vlstructures:villager_houses/plains/plains_villager_house_1",
         "processors": "minecraft:empty",
@@ -12,7 +12,7 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 20,
       "element": {
         "location": "vlstructures:villager_houses/plains/plains_villager_house_2",
         "processors": "minecraft:empty",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 20,
       "element": {
         "location": "vlstructures:villager_houses/plains/plains_villager_house_3",
         "processors": "minecraft:empty",
@@ -30,7 +30,7 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 5,
       "element": {
         "location": "vlstructures:villager_houses/plains/plains_butcher_house",
         "processors": "minecraft:empty",
@@ -39,7 +39,7 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 5,
       "element": {
         "location": "vlstructures:villager_houses/plains/plains_farmer_house",
         "processors": "minecraft:empty",
@@ -48,7 +48,7 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 2,
       "element": {
         "location": "vlstructures:villager_houses/plains/plains_mason_house",
         "processors": "minecraft:empty",
@@ -57,7 +57,7 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 2,
       "element": {
         "location": "vlstructures:villager_houses/plains/plains_cartographer_house",
         "processors": "minecraft:empty",
@@ -66,7 +66,7 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 5,
       "element": {
         "location": "vlstructures:villager_houses/plains/plains_fisher_house",
         "processors": "minecraft:empty",
@@ -75,7 +75,7 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 2,
       "element": {
         "location": "vlstructures:villager_houses/plains/plains_fletcher_house",
         "processors": "minecraft:empty",
@@ -84,7 +84,7 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 5,
       "element": {
         "location": "vlstructures:villager_houses/plains/plains_shepherd_house",
         "processors": "minecraft:empty",
@@ -93,7 +93,7 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 2,
       "element": {
         "location": "vlstructures:villager_houses/plains/plains_cleric_house",
         "processors": "minecraft:empty",
@@ -111,9 +111,36 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 5,
       "element": {
         "location": "vlstructures:villager_houses/plains/plains_tanner_house",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "vlstructures:villager_houses/plains/plains_armorer_house",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "vlstructures:villager_houses/plains/plains_toolsmith_house",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "vlstructures:villager_houses/plains/plains_weaponsmith_house",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"

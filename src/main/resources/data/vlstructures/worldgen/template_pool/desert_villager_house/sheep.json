@@ -1,5 +1,5 @@
 {
-  "name": "vlstructures:plains_villager_house/sheep",
+  "name": "vlstructures:desert_villager_house/sheep",
   "fallback": "minecraft:empty",
   "elements": [
     {

@@ -1,47 +1,38 @@
 {
-  "name": "vlstructures:plains_villager_house/animals",
+  "name": "vlstructures:desert_villager_house/farm",
   "fallback": "minecraft:empty",
   "elements": [
     {
+      "weight": 5,
+      "element": {
+        "location": "vlstructures:villager_houses/desert/desert_farm_1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "vlstructures:villager_houses/desert/desert_farm_2",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "vlstructures:villager_houses/desert/desert_farm_3",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
       "weight": 1,
       "element": {
-        "location": "vlstructures:villager_houses/butchers_rabbits",
-        "processors": "minecraft:empty",
-        "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-    {
-      "weight": 10,
-      "element": {
-        "location": "vlstructures:villager_houses/butchers_cows",
-        "processors": "minecraft:empty",
-        "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-    {
-      "weight": 10,
-      "element": {
-        "location": "vlstructures:villager_houses/butchers_pigs",
-        "processors": "minecraft:empty",
-        "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-    {
-      "weight": 5,
-      "element": {
-        "location": "vlstructures:villager_houses/butchers_sheep",
-        "processors": "minecraft:empty",
-        "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-    {
-      "weight": 5,
-      "element": {
-        "location": "vlstructures:villager_houses/butchers_chicken",
+        "location": "vlstructures:villager_houses/desert/desert_farm_4",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"

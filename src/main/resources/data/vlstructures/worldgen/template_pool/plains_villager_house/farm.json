@@ -1,47 +1,38 @@
 {
-  "name": "vlstructures:plains_villager_house/animals",
+  "name": "vlstructures:plains_villager_house/farm",
   "fallback": "minecraft:empty",
   "elements": [
     {
       "weight": 1,
       "element": {
-        "location": "vlstructures:villager_houses/butchers_rabbits",
+        "location": "vlstructures:villager_houses/plains/plains_farm_1",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
     },
     {
-      "weight": 10,
+      "weight": 1,
       "element": {
-        "location": "vlstructures:villager_houses/butchers_cows",
+        "location": "vlstructures:villager_houses/plains/plains_farm_2",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
     },
     {
-      "weight": 10,
+      "weight": 1,
       "element": {
-        "location": "vlstructures:villager_houses/butchers_pigs",
+        "location": "vlstructures:villager_houses/plains/plains_farm_3",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
     },
     {
-      "weight": 5,
+      "weight": 1,
       "element": {
-        "location": "vlstructures:villager_houses/butchers_sheep",
-        "processors": "minecraft:empty",
-        "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-    {
-      "weight": 5,
-      "element": {
-        "location": "vlstructures:villager_houses/butchers_chicken",
+        "location": "vlstructures:villager_houses/plains/plains_farm_4",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"

@@ -1,11 +1,11 @@
 {
-  "name": "vlstructures:plains_villager_house/animals",
+  "name": "vlstructures:desert_villager_house/animals",
   "fallback": "minecraft:empty",
   "elements": [
     {
       "weight": 1,
       "element": {
-        "location": "vlstructures:villager_houses/butchers_rabbits",
+        "location": "vlstructures:villager_houses/desert_butchers_rabbit",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
