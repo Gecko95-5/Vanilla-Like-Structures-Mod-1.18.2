@@ -1,9 +1,9 @@
 {
-  "name": "vlstructures:plains_villager_house/house",
+  "name": "vlstructures:desert_villager_house/house",
   "fallback": "minecraft:empty",
   "elements": [
     {
-      "weight": 1,
+      "weight": 20,
       "element": {
         "location": "vlstructures:villager_houses/desert/desert_villager_house_1",
         "processors": "minecraft:empty",
@@ -12,7 +12,7 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 20,
       "element": {
         "location": "vlstructures:villager_houses/desert/desert_villager_house_2",
         "processors": "minecraft:empty",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 20,
       "element": {
         "location": "vlstructures:villager_houses/desert/desert_villager_house_3",
         "processors": "minecraft:empty",
@@ -30,7 +30,16 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 5,
+      "element": {
+        "location": "vlstructures:villager_houses/desert/desert_butcher_house",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
       "element": {
         "location": "vlstructures:villager_houses/desert/desert_farmer_house",
         "processors": "minecraft:empty",
@@ -39,9 +48,54 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 2,
       "element": {
-        "location": "vlstructures:villager_houses/desert/desert_butcher_house",
+        "location": "vlstructures:villager_houses/desert/desert_mason_house",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "vlstructures:villager_houses/desert/desert_cartographer_house",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "vlstructures:villager_houses/desert/desert_fisher_house",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "vlstructures:villager_houses/desert/desert_fletcher_house",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "vlstructures:villager_houses/desert/desert_shepherd_house",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "vlstructures:villager_houses/desert/desert_cleric_house",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -57,9 +111,9 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 5,
       "element": {
-        "location": "vlstructures:villager_houses/desert/desert_shepherd_house",
+        "location": "vlstructures:villager_houses/desert/desert_tanner_house",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -68,7 +122,25 @@
     {
       "weight": 1,
       "element": {
-        "location": "vlstructures:villager_houses/desert/desert_tanner_house",
+        "location": "vlstructures:villager_houses/desert/desert_armorer_house",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "vlstructures:villager_houses/desert/desert_toolsmith_house",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "vlstructures:villager_houses/desert/desert_weaponsmith_house",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"

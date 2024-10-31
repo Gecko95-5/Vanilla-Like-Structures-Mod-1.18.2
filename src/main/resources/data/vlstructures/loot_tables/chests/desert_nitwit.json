@@ -1,0 +1,128 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 3.0,
+        "max": 8.0
+      },
+  "bonus_rolls": 0.0,
+  "entries": [
+    {
+      "type": "minecraft:item",
+      "weight": 2,
+      "name": "minecraft:green_dye"
+    },
+    {
+      "type": "minecraft:item",
+      "name": "minecraft:sea_pickle"
+    },
+    {
+      "type": "minecraft:item",
+      "weight": 10,
+      "functions": [
+        {
+          "function": "minecraft:set_count",
+          "count": {
+            "type": "minecraft:uniform",
+            "min": 1.0,
+            "max": 2.0
+          },
+          "add": false
+        }
+      ],
+      "name": "minecraft:cactus"
+    },
+    {
+      "type": "minecraft:item",
+      "weight": 10,
+      "functions": [
+        {
+          "function": "minecraft:set_count",
+          "count": {
+            "type": "minecraft:uniform",
+            "min": 1.0,
+            "max": 2.0
+          },
+          "add": false
+        }
+      ],
+      "name": "minecraft:sandstone"
+    },
+    {
+      "type": "minecraft:item",
+      "weight": 10,
+      "functions": [
+        {
+          "function": "minecraft:set_count",
+          "count": {
+            "type": "minecraft:uniform",
+            "min": 4.0,
+            "max": 8.0
+          },
+          "add": false
+        }
+      ],
+      "name": "minecraft:sand"
+    },
+    {
+      "type": "minecraft:item",
+      "weight": 10,
+      "functions": [
+        {
+          "function": "minecraft:set_count",
+          "count": {
+            "type": "minecraft:uniform",
+            "min": 4.0,
+            "max": 8.0
+          },
+          "add": false
+        }
+      ],
+      "name": "minecraft:clay_ball"
+    },
+    {
+      "type": "minecraft:item",
+      "name": "minecraft:rabbit_hide"
+    },
+    {
+      "type": "minecraft:item",
+      "name": "minecraft:bone"
+    },
+    {
+      "type": "minecraft:item",
+      "weight": 2,
+      "functions": [
+        {
+          "function": "minecraft:set_count",
+          "count": {
+            "type": "minecraft:uniform",
+            "min": 1.0,
+            "max": 4.0
+          },
+          "add": false
+        }
+      ],
+      "name": "minecraft:stick"
+    },
+    {
+      "type": "minecraft:item",
+      "weight": 5,
+      "functions": [
+        {
+          "function": "minecraft:set_count",
+          "count": {
+            "type": "minecraft:uniform",
+            "min": 1.0,
+            "max": 7.0
+          },
+          "add": false
+        }
+      ],
+      "name": "minecraft:dead_bush"
+    }
+  ]
+}
+]
+}

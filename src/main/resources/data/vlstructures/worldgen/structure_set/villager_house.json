@@ -11,6 +11,14 @@
     {
       "structure": "vlstructures:desert_villager_house",
       "weight": 1
+    },
+    {
+      "structure": "vlstructures:desert_nitwit_house",
+      "weight": 1
+    },
+    {
+      "structure": "vlstructures:taiga_villager_house",
+      "weight": 1
     }
   ],
   "placement": {
