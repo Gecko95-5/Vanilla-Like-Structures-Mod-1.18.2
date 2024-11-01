@@ -1,0 +1,15 @@
+{
+  "name": "vlstructures:taiga_villager_house/sheep",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "vlstructures:villager_houses/shepherd_sheep",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}
