@@ -1,0 +1,15 @@
+{
+  "name": "vlstructures:snowy_villager_house/start_pool",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "vlstructures:villager_houses/snowy/snowy_villager",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}
